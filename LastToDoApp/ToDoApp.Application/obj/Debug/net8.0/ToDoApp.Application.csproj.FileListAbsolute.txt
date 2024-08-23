@@ -1,0 +1,15 @@
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\bin\Debug\net8.0\ToDoApp.Application.deps.json
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\bin\Debug\net8.0\ToDoApp.Application.dll
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\bin\Debug\net8.0\ToDoApp.Application.pdb
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\obj\Debug\net8.0\ToDoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\obj\Debug\net8.0\ToDoApp.Application.AssemblyInfoInputs.cache
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\obj\Debug\net8.0\ToDoApp.Application.AssemblyInfo.cs
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\obj\Debug\net8.0\ToDoApp.Application.csproj.CoreCompileInputs.cache
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\obj\Debug\net8.0\ToDoApp.Application.dll
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\obj\Debug\net8.0\refint\ToDoApp.Application.dll
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\obj\Debug\net8.0\ToDoApp.Application.pdb
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\obj\Debug\net8.0\ref\ToDoApp.Application.dll
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\bin\Debug\net8.0\ToDoApp.Domain.dll
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\bin\Debug\net8.0\ToDoApp.Domain.pdb
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\obj\Debug\net8.0\ToDoApp.Application.csproj.AssemblyReference.cache
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Application\obj\Debug\net8.0\ToDoApp..8F0EDDB9.Up2Date

@@ -1,0 +1,11 @@
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\bin\Debug\net8.0\ToDoApp.Contracts.deps.json
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\bin\Debug\net8.0\ToDoApp.Contracts.dll
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\bin\Debug\net8.0\ToDoApp.Contracts.pdb
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.AssemblyInfoInputs.cache
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.AssemblyInfo.cs
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.csproj.CoreCompileInputs.cache
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.dll
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\refint\ToDoApp.Contracts.dll
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.pdb
+C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ref\ToDoApp.Contracts.dll
