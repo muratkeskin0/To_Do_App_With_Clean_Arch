@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O2XZW+kGVRQ=",
+  "dgSpecHash": "RNqWRXLYCyk=",
   "success": true,
-  "projectFilePath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Contracts\\ToDoApp.Contracts.csproj",
+  "projectFilePath": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Contracts\\ToDoApp.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

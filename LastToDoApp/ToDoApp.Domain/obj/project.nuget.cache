@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/wCnTAS1h5U=",
+  "dgSpecHash": "RJaZ+XXC5cs=",
   "success": true,
-  "projectFilePath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Domain\\ToDoApp.Domain.csproj",
+  "projectFilePath": "c:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Domain\\ToDoApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

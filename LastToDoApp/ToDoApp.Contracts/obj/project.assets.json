@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Contracts\\ToDoApp.Contracts.csproj",
+      "projectUniqueName": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Contracts\\ToDoApp.Contracts.csproj",
       "projectName": "ToDoApp.Contracts",
-      "projectPath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Contracts\\ToDoApp.Contracts.csproj",
+      "projectPath": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Contracts\\ToDoApp.Contracts.csproj",
       "packagesPath": "C:\\Users\\engmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Contracts\\obj\\",
+      "outputPath": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\engmu\\AppData\\Roaming\\NuGet\\NuGet.Config",

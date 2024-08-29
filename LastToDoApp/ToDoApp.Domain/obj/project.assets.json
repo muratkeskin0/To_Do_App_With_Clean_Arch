@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Domain\\ToDoApp.Domain.csproj",
+      "projectUniqueName": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Domain\\ToDoApp.Domain.csproj",
       "projectName": "ToDoApp.Domain",
-      "projectPath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Domain\\ToDoApp.Domain.csproj",
+      "projectPath": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Domain\\ToDoApp.Domain.csproj",
       "packagesPath": "C:\\Users\\engmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Domain\\obj\\",
+      "outputPath": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\engmu\\AppData\\Roaming\\NuGet\\NuGet.Config",

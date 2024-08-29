@@ -160,11 +160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Infrastructure\\ToDoApp.Infrastructure.csproj",
+      "projectUniqueName": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Infrastructure\\ToDoApp.Infrastructure.csproj",
       "projectName": "ToDoApp.Infrastructure",
-      "projectPath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Infrastructure\\ToDoApp.Infrastructure.csproj",
+      "projectPath": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Infrastructure\\ToDoApp.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\engmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Infrastructure\\obj\\",
+      "outputPath": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\engmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -182,11 +182,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Application\\ToDoApp.Application.csproj": {
-              "projectPath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Application\\ToDoApp.Application.csproj"
+            "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Application\\ToDoApp.Application.csproj": {
+              "projectPath": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Application\\ToDoApp.Application.csproj"
             },
-            "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Domain\\ToDoApp.Domain.csproj": {
-              "projectPath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Domain\\ToDoApp.Domain.csproj"
+            "c:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Domain\\ToDoApp.Domain.csproj": {
+              "projectPath": "c:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Domain\\ToDoApp.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tl7TNE7ab48=",
+  "dgSpecHash": "cdc4TwnIjRg=",
   "success": true,
-  "projectFilePath": "C:\\Dotnet_Projects\\LastToDoApp\\ToDoApp.Application\\ToDoApp.Application.csproj",
+  "projectFilePath": "C:\\GitHub\\To_Do_App_With_Clean_Arch\\LastToDoApp\\ToDoApp.Application\\ToDoApp.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\engmu\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\engmu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

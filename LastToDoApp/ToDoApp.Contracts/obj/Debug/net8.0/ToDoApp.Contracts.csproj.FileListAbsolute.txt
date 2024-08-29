@@ -9,3 +9,15 @@ C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contra
 C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\refint\ToDoApp.Contracts.dll
 C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.pdb
 C:\Dotnet_Projects\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ref\ToDoApp.Contracts.dll
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\bin\Debug\net8.0\ToDoApp.Contracts.deps.json
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\bin\Debug\net8.0\ToDoApp.Contracts.dll
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\bin\Debug\net8.0\ToDoApp.Contracts.pdb
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.AssemblyInfoInputs.cache
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.AssemblyInfo.cs
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.csproj.CoreCompileInputs.cache
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.sourcelink.json
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.dll
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\refint\ToDoApp.Contracts.dll
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ToDoApp.Contracts.pdb
+C:\GitHub\To_Do_App_With_Clean_Arch\LastToDoApp\ToDoApp.Contracts\obj\Debug\net8.0\ref\ToDoApp.Contracts.dll
